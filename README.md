@@ -10,8 +10,5 @@ Currently, I am developing a comprehensive Food Ordering Platform, where I imple
 
 Beyond coding, I focus on system analysis and creating seamless user experiences. I am always looking for opportunities to transform complex technical requirements into practical, high-performance applications that solve real-world problems.
 
-Follow me on:
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nvhao100604) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL) [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](YOUR_FACEBOOK_URL)
-
 Let's connect:
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)]([YOUR_FACEBOOK_URL](https://www.facebook.com/nguyen.vu.hao.1624/)) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/nguy%E1%BB%85n-v%C5%A9-h%C3%A0o-7b5b52252/)).
