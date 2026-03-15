@@ -1,7 +1,5 @@
 # 👋 Hi, I'm Hao
 
-# 👋 Hi! I'm [Your Name]
-
 ![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![NEXT.JS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![FASTAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white) ![PYTHON](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TYPESCRIPT](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![SUPABASE](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 I am a final-year Information Systems student at Sai Gon University (SGU), specializing in full-stack development with a strong focus on React, Next.js, and FastAPI. My technical journey is driven by the ability to bridge AI-driven logic—specifically semantic evaluation—with user-centric design to deliver sophisticated and scalable digital solutions.
